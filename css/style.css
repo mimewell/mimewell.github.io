@@ -19,6 +19,10 @@ html, body {
   background-size: cover;
 }
 
+.brand{
+  font-weight: bold;
+}
+
 .row{
 	min-height: 300px;
 }
